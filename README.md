@@ -1,2 +1,3 @@
-# ML1sphere
-Homeworks, ML course in sphere.mail.ru
+# Navigation:
+1. KNN
+2.
